@@ -1,6 +1,6 @@
 # Hajira Gul
 
-AI student at FAST-NUCES Islamabad, building things while trying to capture both machine learning and software engineering.
+AI student building things while trying to capture both machine learning and software engineering.
 
 ---
 
